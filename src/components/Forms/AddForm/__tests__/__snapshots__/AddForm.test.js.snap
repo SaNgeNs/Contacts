@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AddForm /> should clear input field after submit 1`] = `
+<div>
+  <form
+    novalidate=""
+  >
+    <h1
+      class="AddForm-title-2"
+    >
+      Add Contact:
+    </h1>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        <span
+          class="MuiButton-startIcon MuiButton-iconSizeLarge"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+            />
+          </svg>
+        </span>
+        Add
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </form>
+</div>
+`;
+
+exports[`<AddForm /> should render add form 1`] = `
+<div>
+  <form
+    novalidate=""
+  >
+    <h1
+      class="AddForm-title-1"
+    >
+      Add Contact:
+    </h1>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        <span
+          class="MuiButton-startIcon MuiButton-iconSizeLarge"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+            />
+          </svg>
+        </span>
+        Add
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </form>
+</div>
+`;

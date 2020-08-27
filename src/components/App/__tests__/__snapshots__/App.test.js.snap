@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render component 1`] = `
+<div>
+  <header
+    class="Header-wrap-1"
+  >
+    <ul
+      class="Header-list-2"
+    >
+      <li>
+        <a
+          aria-current="page"
+          class="Header-link-3 active"
+          href="/"
+          style="background-color: rgb(51, 204, 255); font-weight: bold;"
+        >
+          Main
+        </a>
+      </li>
+      <li>
+        <a
+          class="Header-link-3"
+          href="/favourite"
+        >
+          Favourite
+        </a>
+      </li>
+    </ul>
+  </header>
+</div>
+`;

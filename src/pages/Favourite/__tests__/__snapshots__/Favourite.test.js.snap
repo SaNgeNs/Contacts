@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Favourite /> should render favourite page 1`] = `
+<div>
+  <div>
+    <h1
+      style="padding: 0px 10px;"
+    >
+      Favourite:
+    </h1>
+  </div>
+</div>
+`;
